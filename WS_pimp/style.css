@@ -1,0 +1,37 @@
+body {
+    background-color: white !important;
+    color: black !important;
+    background-image: url(https://media0.giphy.com/media/W0VuY0dTxH9L6vLUJ2/giphy.gif) !important;
+}
+
+#content .bloc {
+    background-color: rgb(243, 0, 211, 0.680);
+}
+
+#homeboard section .articles {
+    background-color: rgba(117, 0, 128, 0.680);
+}
+
+#header .header-wrapper {
+    background-color: rgb(243, 0, 211);
+}
+
+.datagrid .overflow .clickzone {
+    background-color: rgba(243, 0, 211, 1);
+}
+
+#planning .calendar .appoint {
+    opacity: 0.9;
+}
+
+.planner.daysview .appoints .appoint h4 span.title {
+    background-color: rgb(168, 0, 0) !important;
+}
+
+#sidebar .filter {
+    background-color: rgba(5, 4, 4, 0.925) !important;
+}
+
+#sidebar {
+    background-color: rgba(243, 0, 211, 0.680) !important;
+}
